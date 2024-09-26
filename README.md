@@ -1,4 +1,4 @@
-# PCI-DSS-HIPPA-HITRUST
+# PCI-DSS-HIPPA-HITRUST-GDPR
 
 Sure! Here’s a detailed example of experience working with PCI-DSS (Payment Card Industry Data Security Standard) audits, focusing on a fictional company in the retail sector.
 
